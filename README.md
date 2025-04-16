@@ -15,7 +15,7 @@ A modern and responsive blog template built using **HTML**, **CSS**, and **JavaS
 - **HTML5**: Structured the content and layout of the blog.
 - **CSS3**: Styled the blog, with media queries for responsive design.
 - **JavaScript**: Used for any interactive elements or dynamic behaviors.
-- **[Deployment Platform]**: Hosted the project on [Netlify/GitHub Pages/etc.].
+.
 
 ## **Getting Started**
 
